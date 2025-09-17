@@ -191,7 +191,7 @@ This project is for educational and personal use.
 
 ---
 
-**Created by**: om wakhare  
+**Created by**: Swaraj More
 **Version**: 1.0  
 **Last Updated**: 2025
 
